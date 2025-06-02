@@ -46,3 +46,7 @@ print("======Scenariusz 3======")
 print(f"Stopa realna: {round(scenariusz3 * 100, 2)} %")
 print(f"Wartość bieżąca: {pv_pesym:.2f}")
 print(f"Wymagana rata: {rata_pesym:.2f} \n")
+
+
+
+
